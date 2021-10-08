@@ -1,0 +1,7 @@
+[preload  storage="./data/bgimage/20211026/背景_コンテスト_枠なし.png"  ]
+[preload  storage="./data/fgimage/default/顔/顔_社長_通常.png"  ]
+[preload  storage="./data/fgimage/default/顔/顔_同僚_B.png"  ]
+[preload  storage="./data/fgimage/default/顔/顔_ライバル_3.png"  ]
+[preload  storage="./data/fgimage/default/顔/顔_社長令嬢2_B.png"  ]
+[preload  storage="./data/bgimage/title.jpg"  ]
+[return]
