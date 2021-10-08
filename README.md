@@ -37,7 +37,7 @@
     TyranoBuilderをインストール後、
     myprojectのディレクトリ内にディレクトリMWS-CUP-2021-FSEをコピーして起動して下さい。
 
-    TyranoBuilder公式HP: https://b.tyrano.jp
+    TyranoBuilder公式HP: https://b.tyrano.jp  
     TyranoBuilderのVersion: Ver.1.87b
 
 2.  ゲームはPliCyで公開されているため、ブラウザ上でも実行が可能です。
