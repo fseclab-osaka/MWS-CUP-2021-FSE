@@ -20,7 +20,7 @@
     セキュリティ工学講座
 
     Contact:
-    rei-shimizu@ist.osaka-u.ac.jp
+    m-tatsumi@ist.osaka-u.ac.jp
 
     Lisence:
     PliCyの利用規約に準拠・帰属
