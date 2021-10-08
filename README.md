@@ -40,5 +40,6 @@
     TyranoBuilder公式HP: https://b.tyrano.jp
 
 2.  ゲームはPliCyで公開されているため、ブラウザ上でも実行が可能です。
+    ゲームのプレイだけであればソフトのインストールが必要ないブラウザからのプレイがおすすめです。
 
     PliCy公開URL: https://plicy.net/GamePlay/122233
